@@ -24,7 +24,7 @@ SoundCloud track and playlist embeds can be easily added to a Facebook tab via F
 
 ## Edit Static FBML
 
-Give your tab a title by editing the **Box Title** field
+Once you've made it to the Edit page, give your tab a title by editing the **Box Title** field
 
 The **FBML** area beneath the **Box Title** field is where you'll add your SoundCloud embed using the [fb:swf](http://developers.facebook.com/docs/reference/fbml/swf) FBML tag:
 
