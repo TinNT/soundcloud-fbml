@@ -49,7 +49,7 @@ The Static FBML app let's you render HTML or FBML (Facebook Markup Language) for
 
 ![Custom Tab Screenshot](http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/custom_screenshot.png "Custom Tab Screenshot")
 
-This look was achieved with some [basic HTML](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom.txt).
+This look was achieved with some [basic HTML](http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/custom.txt).
 
 ## Tips and Tricks
 
