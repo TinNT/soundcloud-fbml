@@ -28,11 +28,11 @@ Give your tab a title by editing the **Box Title** field
 
 The **FBML** area beneath the **Box Title** field is where you'll add your SoundCloud embed using the **fb:swf** FBML tag:
 
-     <fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=[http://soundcloud.com/bandofhorses/sets/infinite-arms][url]&auto_play=true&player_type=artwork&color=000000'
-     imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' 
-     height='425'
-     width='425'
-     swfbgcolor='000000' 
-     quality='high' />
+<fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=[http://soundcloud.com/bandofhorses/sets/infinite-arms][url]&auto_play=true&player_type=artwork&color=000000'
+imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' 
+height='425'
+width='425'
+swfbgcolor='000000' 
+quality='high' />
 
 [url]: # "url"
