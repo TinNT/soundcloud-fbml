@@ -42,3 +42,15 @@ Here's a working example of the tag using the Band of Horses Infinite Arms set:
 Once you've added your code, you can save your work by clicking the `Save Changes` button below.
 
 Finally, return to your page, click the tab with the _Box Title_ you set earlier and make sure everything is in working order.
+
+## Tips and Tricks
+
+### Set as Default Landing Tab
+
+You can set your SoundCloud tab to be the default landing page for your Facebook page. This is great for album/track premieres.
+
+1. Go to your page
+2. Click the **Edit Page** link in the left column
+3. Look for the Wall Settings box in the left column
+4. Click the _Edit_ link within its block
+5. Set the _Default Landing Tab for Everyone Else_ dropdown to your tab (it will show up as your Tab's name)
