@@ -1,6 +1,6 @@
 # SoundCloud-FBML
 
-SoundCloud track and playlist embeds can be easily added to a Facebook tab via Facebook's Static FBML application. This technique was made popular by Band of Horses [here](http://www.facebook.com/bandofhorses?v=app_4949752878). Here's how you do it:
+SoundCloud track and playlist embeds can be easily added to a Facebook tab via Facebook's Static FBML application. Here's how you do it:
 
 ## Add Static FBML & Navigate to Edit Page
 
@@ -34,3 +34,7 @@ The **FBML** area beneath the **Box Title** field is where you'll add your Sound
 * imgsrc: URL of the image users must click before it turns into a SoundCloud player (Take a screenshot of the player and add &auto_play=true above)
 * height: The height of the SoundCloud player.
 * width: The width of the SoundCloud player.
+
+Here's a working example of the tag using Band of Horses, Infinite Arms:
+
+     <fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&color=000000' imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' height='325' width='425' quality='best' />
