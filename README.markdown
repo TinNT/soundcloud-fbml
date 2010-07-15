@@ -43,6 +43,14 @@ Once you've added your code, you can save your work by clicking the `Save Change
 
 Finally, return to your page, click the tab with the _Box Title_ you set earlier and make sure everything is in working order.
 
+## Customize It
+
+The Static FBML app let's you render HTML or FBML (Facebook Markup Language) for enhanced Page customization. This allows you to design a nice experience around your SoundCloud player with some basic HTML. Check out what Band of Horses did with one of our [artwork players](http://soundcloud.com/tour/widgets).
+
+![Custom Tab Screenshot](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom_bg.jpg "Custom Tab Screenshot")
+
+This look was achieved with some [basic HTML](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom.txt).
+
 ## Tips and Tricks
 
 ### Set as Default Landing Tab

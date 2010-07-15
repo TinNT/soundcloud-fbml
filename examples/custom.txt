@@ -1,0 +1,19 @@
+<div style="background:black url('http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom_bg.jpg');padding:20px 0 20px 0;text-align:center;">
+
+	<!-- SoundCloud Player Square -->
+
+	<div style="margin:0 auto;width:425px;">
+
+		<fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&player_type=artwork&color=000000' imgsrc='http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom_play.jpg' height='425' width='425' quality='best' /> 
+
+	</div>
+	
+	<!-- Info Block -->
+
+	<div style="border:1px solid #636363;color:#636363;font:14px Georgia;margin:20px 20px 0px 20px;padding:20px;">
+
+		Stream the entire new Band of Horses album, Infinite Arms, by clicking the play button above or by visiting <a href="http://stream.bandofhorses.com" style="color:#fff;">http://stream.bandofhorses.com</a> for the full experience. Infinite Arms is available everywhere May 18th.<br><br> <a href="http://bit.ly/preorder_boh" style="color:#fff;">Preorder Now on iTunes & Get Exclusive Bonus Track</a>
+
+	</div>
+
+</div>
