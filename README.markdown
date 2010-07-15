@@ -31,7 +31,7 @@ The **FBML** area beneath the **Box Title** field is where you'll add your Sound
      <fb:swf swfsrc='' imgsrc='' height='' width='' quality='best' />
 
 * swfsrc: http://player.soundcloud.com/player.swf?url=url-to-your-track-or-set (Add [parameters](http://wiki.github.com/soundcloud/Widget-JS-API/widget-options) to customize colors, auto_play, and more.)
-* imgsrc: URL of the image users must click before it turns into a SoundCloud player (Take a ![screenshot](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/basic.png) of the player and add &auto_play=true above)
+* imgsrc: URL of the image users must click before it turns into a SoundCloud player (Take a [screenshot](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/basic.png) of the player and add &auto_play=true above)
 * height: The height of the SoundCloud player.
 * width: The width of the SoundCloud player.
 
