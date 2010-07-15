@@ -54,3 +54,7 @@ You can set your SoundCloud tab to be the default landing page for your Facebook
 3. Look for the Wall Settings box in the left column
 4. Click the _Edit_ link within its block
 5. Set the _Default Landing Tab for Everyone Else_ dropdown to your tab (it will show up as your Tab's name)
+
+# Copyright
+
+**SoundCloud-FBML** is Copyright (c) 2010 [Lee Martin](http://Lee.Ma/rtin) and [SoundCloud](http://soundcloud.com), released under the MIT License.
