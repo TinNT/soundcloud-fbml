@@ -35,6 +35,10 @@ The **FBML** area beneath the **Box Title** field is where you'll add your Sound
 * height: The height of the SoundCloud player.
 * width: The width of the SoundCloud player.
 
-Here's a working example of the tag using Band of Horses, Infinite Arms:
+Here's a working example of the tag using the Band of Horses Infinite Arms set:
 
-     <fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&color=000000' imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' height='325' width='425' quality='best' />
+     <fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&color=000000' imgsrc='http://github.com/leemartin/soundcloud-fbml/raw/master/examples/basic.png' height='325' width='425' quality='best' />
+
+Once you've added your code, you can save your work by clicking the `Save Changes` button below.
+
+Finally, return to your page, click the tab with the _Box Title_ you set earlier and make sure everything is in working order.
