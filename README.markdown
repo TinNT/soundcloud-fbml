@@ -31,7 +31,7 @@ The **FBML** area beneath the **Box Title** field is where you'll add your Sound
      <fb:swf swfsrc='' imgsrc='' height='' width='' quality='best' />
 
 * swfsrc: http://player.soundcloud.com/player.swf?url=url-to-your-track-or-set (Add [parameters](http://wiki.github.com/soundcloud/Widget-JS-API/widget-options) to customize colors, auto_play, and more.)
-* imgsrc: URL of the image users must click before it turns into a SoundCloud player (Take a [screenshot](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/basic.png) of the player and add &auto_play=true above)
+* imgsrc: URL of the image users must click before it turns into a SoundCloud player (Take a [screenshot](http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/basic.png) of the player and add &auto_play=true above)
 * height: The height of the SoundCloud player.
 * width: The width of the SoundCloud player.
 
@@ -47,7 +47,7 @@ Finally, return to your page, click the tab with the _Box Title_ you set earlier
 
 The Static FBML app let's you render HTML or FBML (Facebook Markup Language) for enhanced Page customization. This allows you to design a nice experience around your SoundCloud player with some basic HTML. Check out what Band of Horses did with one of our [artwork players](http://soundcloud.com/tour/widgets).
 
-![Custom Tab Screenshot](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom_screenshot.png "Custom Tab Screenshot")
+![Custom Tab Screenshot](http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/custom_screenshot.png "Custom Tab Screenshot")
 
 This look was achieved with some [basic HTML](http://github.com/leemartin/soundcloud-fbml/raw/master/examples/custom.txt).
 

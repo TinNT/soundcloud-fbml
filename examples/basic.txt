@@ -1,1 +1,1 @@
-<fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&color=000000' imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' height='325' width='425' quality='best' />
+<fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=http://soundcloud.com/bandofhorses/sets/infinite-arms&auto_play=true&color=000000' imgsrc='http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/basic.png' height='325' width='425' quality='best' />
