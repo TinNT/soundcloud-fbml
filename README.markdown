@@ -26,13 +26,11 @@ SoundCloud track and playlist embeds can be easily added to a Facebook tab via F
 
 Give your tab a title by editing the **Box Title** field
 
-The **FBML** area beneath the **Box Title** field is where you'll add your SoundCloud embed using the **fb:swf** FBML tag:
+The **FBML** area beneath the **Box Title** field is where you'll add your SoundCloud embed using the [fb:swf](http://developers.facebook.com/docs/reference/fbml/swf) FBML tag:
 
-<fb:swf swfsrc='http://player.soundcloud.com/player.swf?url=[http://soundcloud.com/bandofhorses/sets/infinite-arms][url]&auto_play=true&player_type=artwork&color=000000'
-imgsrc='http://stream.bandofhorses.com/images/facebook_play.jpg' 
-height='425'
-width='425'
-swfbgcolor='000000' 
-quality='high' />
+     <fb:swf swfsrc='' imgsrc='' height='' width='' quality='best' />
 
-[url]: # "url"
+* swfsrc: http://player.soundcloud.com/player.swf?url=url-to-your-track-or-set (Add [parameters](http://wiki.github.com/soundcloud/Widget-JS-API/widget-options) to customize colors, auto_play, and more.)
+* imgsrc: URL of the image users must click before it turns into a SoundCloud player (I suggest taking a screenshot of the player itself and adding &auto_play=true above)
+* height: The height of the SoundCloud player.
+* width: The width of the SoundCloud player.
