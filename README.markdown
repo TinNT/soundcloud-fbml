@@ -53,7 +53,7 @@ This look was achieved with some [basic HTML](http://github.com/soundcloud/sound
 
 ## Make it Private
 
-If you would prefer to make your player only available to those Facebook users who have 'Liked' your page, simply use the **fb:visible-to-connection** tag in combination with an image or text explaining this. [Check out](http://github.com/soundcloud/soundcloud-fbml/blob/master/examples/locked.txt) for a coded example of this technique.
+If you would prefer to make your player only available to those Facebook users who have 'Liked' your page, simply use the **fb:visible-to-connection** tag in combination with an image or text explaining this. Check out this  [tab app](http://www.facebook.com/pages/SoundCloud-Dev/102523519809552?v=app_4949752878) to see this in action. And here's the [code](http://github.com/soundcloud/soundcloud-fbml/blob/master/examples/locked.txt) to get you started.
 
 ## Tips and Tricks
 
