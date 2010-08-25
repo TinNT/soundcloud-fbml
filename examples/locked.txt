@@ -10,7 +10,15 @@
 			
 		<fb:else> <!-- Visible to those who don't 'Like' the Page -->
 		
-			<div style="position:absolute;top:0;left:0;"><img src="http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/locked.jpg" /></div>
+			<fb:dialog id="my_dialog"> 
+			    <fb:dialog-title>You must 'Like' this page to do that</fb:dialog-title> 
+			    <fb:dialog-content>
+			        Click 'Like' at the top of the page to access the special features of this stream.
+			    </fb:dialog-content> 
+			    <fb:dialog-button type="button" value="Okay" close_dialog="1" />
+			</fb:dialog>
+		
+			<div style="position:absolute;top:0;left:0;"><a href="#" clicktoshowdialog="my_dialog"><img src="http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/locked.jpg?1" border="0" /></a></div>
 			
 		</fb:else>
 			
