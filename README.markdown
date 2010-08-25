@@ -51,6 +51,10 @@ The Static FBML app let's you render HTML or FBML (Facebook Markup Language) for
 
 This look was achieved with some [basic HTML](http://github.com/soundcloud/soundcloud-fbml/raw/master/examples/custom.txt).
 
+## Make it Private
+
+If you would prefer to make your player only available to those Facebook users who have 'Liked' your page, simply use the **fb:visible-to-connection** tag in combination with an image or text explaining this. [Check out](http://github.com/soundcloud/soundcloud-fbml/blob/master/examples/locked.txt) for a coded example of this technique.
+
 ## Tips and Tricks
 
 ### Set as Default Landing Tab
